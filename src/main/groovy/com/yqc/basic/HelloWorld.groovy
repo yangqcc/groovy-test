@@ -1,4 +1,4 @@
-package com.yqc.test
+package com.yqc.basic
 
 /**
  * Created by yangqc on 2017/5/7.
