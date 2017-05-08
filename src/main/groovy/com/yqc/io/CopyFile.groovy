@@ -6,7 +6,7 @@ package com.yqc.io
  */
 class CopyFile {
     static void main(String[] args) {
-        def src = new File(IoTest1.FILE_PATH)
+        def src = new File(GetFileContent.FILE_PATH)
         def dest = new File("D:/GroovyFile.txt")
         dest << src.text
     }
