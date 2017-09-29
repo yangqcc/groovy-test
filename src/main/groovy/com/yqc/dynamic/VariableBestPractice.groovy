@@ -6,11 +6,11 @@ package com.yqc.dynamic
  */
 class VariableBestPractice {
     static void main(String[] args) {
-        def aint = 100
-        println(aint)
+        def aInt = 100
+        println(aInt)
 
-        def bfloat = 100.10
-        println(bfloat)
+        def bFloat = 100.10
+        println(bFloat)
 
         def cDouble = 100.101
         println(cDouble)
